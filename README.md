@@ -12,7 +12,7 @@ CTRL+C
 # daca vreau sa adauga ceva din postman
 introduc linkul http://127.0.0.1:8000/backend/product/
 
-apoi fac ce scrie in views
+# apoi fac ce scrie in views
 '''''''''''''''''''''''''''''''''''''''''''''''''''''
 api_view(['POST'])
 def add_product(request):
